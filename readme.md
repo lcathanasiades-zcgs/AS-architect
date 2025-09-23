@@ -22,6 +22,7 @@ Design and code are completely written by TemplatesJungle's design and developme
 
 ## License
 
- - Design and Code is Copyright &copy; [Templates Jungle]()https://templatesjungle.com/
+ - Design and Code is Copyright &copy; [Templates Jungle](https://templatesjungle.com/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
+
